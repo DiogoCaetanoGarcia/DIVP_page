@@ -11,7 +11,7 @@ The Group’s activities are centered around research and teaching in the areas 
 ## [Point clouds](https://diogocaetanogarcia.github.io/DIVP_page/point-clouds/)
 
 <p style="text-align:center;">
-  <img src="https://github.com/DiogoCaetanoGarcia/DIVP_page/raw/master/assets/images/thai-rotate_small.gif"><br>
+  <img src="https://github.com/DiogoCaetanoGarcia/DIVP_page/raw/main/assets/images/thai-rotate_small.gif"><br>
   <i>Plenoptic point cloud</i><br>
 </p>
 
@@ -28,7 +28,7 @@ Other research topics include:
 
 ## [Image and video compression](https://diogocaetanogarcia.github.io/DIVP_page/video-compression/)
 <p style="text-align:center;">
-  <img src="https://github.com/DiogoCaetanoGarcia/DIVP_page/raw/master/assets/images/shields_wedge.gif"><br>
+  <img src="https://github.com/DiogoCaetanoGarcia/DIVP_page/raw/main/assets/images/shields_wedge.gif"><br>
   <i>Geometric partition of blocks for motion estimation and compensation</i><br>
 </p>
 
@@ -45,7 +45,7 @@ Furthermore, our work on [non-rectangular](http://queiroz.divp.org/papers/icip06
 ## [Image and video processing, analysis and synthesis](https://diogocaetanogarcia.github.io/DIVP_page/miscellaneous/)
 
 <p style="text-align:center;">
-  <img src="https://github.com/DiogoCaetanoGarcia/DIVP_page/raw/master/assets/images/peppers_jpeg.gif"><br>
+  <img src="https://github.com/DiogoCaetanoGarcia/DIVP_page/raw/main/assets/images/peppers_jpeg.gif"><br>
   <i>JPEG compression history estimation for color images</i><br>
 </p>
 
