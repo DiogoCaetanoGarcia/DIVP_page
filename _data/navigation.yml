@@ -1,0 +1,81 @@
+# main links
+main:
+#   - title: "Home"
+#     url: https://diogocaetanogarcia.github.io/minimal-mistakes/
+#   - title: "Point clouds"
+#     url: /point-clouds/
+#   - title: "Video compression"
+#     url: /video-compression/
+#   - title: "Miscellaneous"
+#     url: /miscellaneous/
+#   - title: "Software"
+#     url: /software/
+  - title: "Faculty"
+    url: /faculty/
+  - title: "Graduate students"
+    url: /grad-students/
+  - title: "Undergraduate students"
+    url: /undergrad-students/
+  - title: "Alumni"
+    url: /alumni/
+projs:
+  - title: "Point clouds"
+    url: /point-clouds/
+    children:
+      - title: "Attribute compression"
+        url: /point-clouds-attribute-compression/
+      - title: "Geometry compression"
+        url: /point-clouds-geometry-compression/
+      - title: "Motion estimation"
+        url: /point-clouds-motion-estimation/
+      - title: "Region-of-interest/saliency"
+        url: /point-clouds-roi-saliency/
+      - title: "Super-resolution"
+        url: /point-clouds-super-resolution/
+  - title: "Image and video compression"
+    url: /video-compression/
+    children:
+      - title: "Learning-based image and video compression"
+        url: /video-compression-learning-based/
+      - title: "Wedges"
+        url: /video-compression-wedges/
+      - title: "Light field image compression"
+        url: /video-compression-light-field-image-compression/
+      - title: "Video encoding complexity reduction"
+        url: /video-compression-video-encoding-complexity-reduction/
+      - title: "Wyner-Ziv coding"
+        url: /video-compression-wyner-ziv-coding/
+      - title: "Super-resolution"
+        url: /video-compression-super-resolution/
+      - title: "Scanned document compression"
+        url: /video-compression-scanned-document-compression/
+      - title: "Transcoding"
+        url: /video-compression-transcoding/
+      - title: "Motion estimation and intra prediction"
+        url: /video-compression-motion-estimation-and-intra-prediction/
+      - title: "Brazillian digital TV standard"
+        url: /video-compression-brazillian-digital-tv-standard/
+  - title: "Image and video processing, analysis and synthesis"
+    url: /miscellaneous/
+    children:
+      - title: "JPEG detection"
+        url: /miscellaneous-jpeg-detection/
+      - title: "Face spoofing detection"
+        url: /miscellaneous-face-spoofing-detection/
+      - title: "Heart-rate measurement"
+        url: /miscellaneous-heart-rate-measurement/
+      - title: "Sonar multibeam echo sounding"
+        url: /miscellaneous-sonar-multibeam-echo-sounding/
+
+
+
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
